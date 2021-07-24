@@ -16,7 +16,7 @@ seq(from=3.5, to=1.5, by =-0.5)
 
 seq(from=0, to=100, length.out=5)
 seq(from=-1, to=1, length.out=5)
-g
+
 example(rep)
 
 rep(1, times=3)
@@ -34,7 +34,7 @@ str(cha)
 
 length(num)
 
-LETTERS # 대문자 영어 배열
+LETTERS # 대문자 영어 배열 
 letters # 소문자 영어 배열
 month.name
 month.abb  # 달 축약
