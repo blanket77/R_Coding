@@ -1,0 +1,7 @@
+https://www.youtube.com/playlist?list=PLY0OaF78qqGA42e0rXqBWCcF_C9Ib-T1x 매우 구체적임 - 상 , 여기 올라온 자료는 이걸 보고 따라했다.
+https://www.youtube.com/playlist?list=PLEUKy_nwlzwEbpOh3peYnSPI0FaeMQJW6 강의자료도 있으니 참고 - 중
+https://www.youtube.com/playlist?list=PLaqQvlCBe8vL739pc-jESsucndheGmQIZ 3일 간단한 배우고 - 하
+
+그 다음부터는 통계학을 배우고 쓰는 것이 효율적인 것 같다. 강의에서도 통계학 기초 듣고 왔다고 판단하고 요약만 해서 알려준다. 
+간단한 package, memory load, data structer, graph,
+ 데이터 불러오기, 내보내기 등은 가볍게 배워놨으니 정말 필요할 때 다시 공부할 예정이다. (csv, excel, text 등 여러 데이터를 가져와서 분석)
